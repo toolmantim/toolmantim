@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+Here you'll find a lot of Ruby, HTML, CSS and JavaScript. Most projects are now unmaintained, or forks, and serve mostly as a reference or as a useful tools for adventurous souls.
+
+You can also find me at these other places:
+
+- 💻 <a rel="me" href="https://toolmantim.com/">toolmantim.com</a>
+- 🐘 <a rel="me" href="https://mastodon.au/@toolmantim">Mastodon</a>
+
 <!--
 **toolmantim/toolmantim** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
